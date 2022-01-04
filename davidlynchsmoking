@@ -1,0 +1,15 @@
+<h1>The Faces of David Lynch</h1>
+<h2>Will he smoke or will he not?</h2>
+<a href="#disclaimer">Smoking Disclaimer</a>
+<main>
+<p>We all know and love David Lynch. He's a creative genius responsible for some of the great TV and films entries of our time. He's also a very stylish man, from his hair to the way he smokes his cigarettes.</p>
+<p>My question to you, is which do you prefer? A smoking David Lynch or a non-smoking David Lynch? You can take your pick from the two photographs below to see where your choices will take you!</p>
+<main>
+<p id="disclaimer">DISCLAIMER - The owner of this webpage in no way condones smoking. We simply ask your preference!</p>
+<!--This bit below gets a bit messy because I don't think I've mastered how to link text externally yet
+-->
+<a href="https://www.youtube.com/watch?v=JNTCvHkU3go">
+<img src="https://i.guim.co.uk/img/media/6c347f134c254609c69494fb70b30b34c536892d/0_0_1696_2100/master/1696.jpg?width=700&quality=85&auto=format&fit=max&s=d32206388b6e68a49bca46dfed4da721" alt="David Lynch Smoking"></a>
+<a href="https://www.youtube.com/watch?v=HmktLUEbAxg">David Lynch not really smoking</a>
+<img src="https://static.ffx.io/images/$width_368%2C$height_552/t_crop_fill/q_86%2Cf_auto/ae9977b255a80851fa30602e59342366ccd833bd" alt="David Lynch not really smoking">
+
