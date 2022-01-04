@@ -13,3 +13,15 @@
 <a href="https://www.youtube.com/watch?v=HmktLUEbAxg">David Lynch not really smoking</a>
 <img src="https://static.ffx.io/images/$width_368%2C$height_552/t_crop_fill/q_86%2Cf_auto/ae9977b255a80851fa30602e59342366ccd833bd" alt="David Lynch not really smoking">
 
+<h1> The Big Old David Lynch Smoking Game </h1>
+<h2>Will he be chuffing away today or not?</h2>
+<a href="#disclaimer-header">Disclaimer</a>
+<main>
+<p>Blah blah blah you know David, we know David, the game is to work out if he is gonna smoke todya or not. Waddaya think?</p>
+<p>Basically if you click the image of him smoking below it should take you to a video of him chatting about smoking</p>
+<p>But if you click the second picture, it should take you to a video of him chatting about not smoking (just pretend, not really him)</p>
+<p id="disclaimer-header">DISCLAIMER - I am not Lynch. I do not condone smoking. Perhaps he does, I don't. Smoke carefully all (if you decide to smoke at all!).</p>
+<main>
+<!--Here's the fun part. Is the stuff below going to work or not, let's see.... -->
+<a href="https://www.youtube.com/watch?v=JNTCvHkU3go&t=1s"> <img src="https://i.guim.co.uk/img/media/6c347f134c254609c69494fb70b30b34c536892d/0_0_1696_2100/master/1696.jpg?width=700&quality=85&auto=format&fit=max&s=d32206388b6e68a49bca46dfed4da721" alt="David Lynch Very Much Smoking">
+<a href="https://www.youtube.com/watch?v=HmktLUEbAxg&t=6s"> <img src="https://i.guim.co.uk/img/media/47a16fc1af9749b7e0e803488ee450252fb2c4dc/50_668_5233_6542/master/5233.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=e73bb089b4bce517aa2aa9926c926851" alt="David Lynch Very Much NOT smoking!"</a>
